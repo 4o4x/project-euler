@@ -22,7 +22,7 @@ int main(){
 
                         if(num3 == m *n){
                             arr[i]= num3;
-                            //printf("%d %d %d\n",num3,m,n);
+
                         i++;
                         }
                     }
